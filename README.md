@@ -12,4 +12,4 @@ This repository contains a haphazard collection of code and utilities I wrote du
 My thesis which I now find embarrassing to read is available at [http://lib.dr.iastate.edu/etd/12347/](http://lib.dr.iastate.edu/etd/12347/). Additional papers can be found at [ben-holland.com/publications](https://ben-holland.com/publications).
 
 ## Disclaimer
-Parts of this code almost certaintly violate Facebook's terms of service and is likely no longer functional. Please use this code for educational purposes only and even in doing so, you may need to consult your universities IRB committee to design a legal and ethical experiment involving deanonymization of social private network data.
+Parts of this code almost certaintly violate Facebook's terms of service or are likely no longer functional. Please use this code for educational purposes only and even in doing so, you may need to consult your universities IRB committee to design a legal and ethical experiment involving deanonymization of social private network data.

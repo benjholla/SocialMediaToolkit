@@ -1,5 +1,5 @@
 # Social Media Toolkit
-I wrote this code and quite a few other utilities between 2011 and 2012 when I was working on my master's thesis, but since much of the code is now defuct I'm just saving the most interesting bits here for posterity. 
+I wrote this code and quite a few other utilities between 2011 and 2012 when I was working on my master's thesis, but since much of the code is now defunct I'm just saving the most interesting bits here for posterity. 
 
 ## Overview
 This repository contains a haphazard collection of code and utilities I wrote during my master's thesis. The two primary projects are the `Facebook Crawler` project which crawls Facebook (outside the restricted Facebook Graph API) and a set of graph utilities in the `Social Media Toolkit` utilities project for large scale graph isomomorpism/deanonymization on Neo4J graph databases. The deanonymization routines were based off of the following inspirational works.
